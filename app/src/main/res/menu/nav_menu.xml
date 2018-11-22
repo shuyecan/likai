@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="none">
+    <item android:id="@+id/menu_xunlian"
+        android:icon="@drawable/ic_alarm_xulian"
+        android:title="@string/xunlian"
+        />
+    <item android:id="@+id/menu_jihua"
+        android:icon="@drawable/ic_assignment_jihua"
+        android:title="@string/jihua"
+    />
+    <item android:id="@+id/menu_tongji"
+        android:icon="@drawable/ic_assessment_tongji"
+        android:title="@string/tongji"
+    />
+    <item android:id="@+id/menu_shezhi"
+        android:icon="@drawable/ic_settings_shezhi"
+        android:title="@string/shezhi"
+     />
+
+    </group>
+    <group android:checkableBehavior="none"
+        android:id="@+id/dier">
+        <item android:id="@+id/menu_fenxiang"
+            android:icon="@drawable/ic_share_fenxiang"
+            android:title="@string/sharp"
+            />
+        <item android:id="@+id/menu_chongzhi"
+            android:icon="@drawable/ic_autorenew_chongzhi"
+            android:title="@string/chongzhi"
+            />
+    </group>
+</menu>

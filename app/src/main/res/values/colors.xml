@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4F8DFE</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Login_back">#0066CC</color>
+    <color name="title">#FFFFFF</color>
+    <color name="red">#FF4081</color>
+    <color name="blue">#4F8DFE</color>
+    <color name="black">#000000</color>
+    <color name="green">#98FB98</color>
+    <color name="zhongse">#EED8AE</color>
+</resources>
